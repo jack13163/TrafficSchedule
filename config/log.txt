@@ -1,0 +1,21 @@
+--------------------------------
+the generation is:1
+the best y is:98.0
+the worst fitness is:98.0
+the average fitness is:98.0
+the total fitness is:196.0
+geneI:0	x:null	y:0.0
+--------------------------------
+the generation is:2
+the best y is:98.0
+the worst fitness is:98.0
+the average fitness is:98.0
+the total fitness is:196.0
+geneI:0	x:null	y:0.0
+--------------------------------
+the generation is:3
+the best y is:98.0
+the worst fitness is:98.0
+the average fitness is:98.0
+the total fitness is:196.0
+geneI:0	x:null	y:0.0
